@@ -50,17 +50,21 @@ Pré-requisitos:
 
 Passo a passo:
 1. Clone o repositório:
+
 git clone https://github.com/samirsousa/Clone-Twitter.git
 
 cd Clone-Twitter/twitter
 
-3. Instale as dependências:
+2. Instale as dependências:
+
 npm install
 
 4. Rode o projeto localmente:
+
 npm run dev
 
-5. Acesse o projeto no navegador:
+6. Acesse o projeto no navegador:
+
 http://localhost:5173
 
 ## 🖼️ Preview
