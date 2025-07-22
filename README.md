@@ -65,7 +65,7 @@ Passo a passo:
 
 6. Acesse o projeto no navegador:
 
-  http://localhost:5173
+   http://localhost:5173/
 
 ## 🖼️ Preview
 
