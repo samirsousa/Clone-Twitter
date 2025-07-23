@@ -71,6 +71,9 @@ Passo a passo:
 
 📷 Em breve: imagem de preview do projeto
 
+## ✨ Deploy com GitHub Pages
+O deploy foi feito com a lib gh-pages, utilizando a branch gh-pages com build feita via Vite.
+
 ## 📌 Possibilidades de Expansão
 
 - Integração com backend (Firebase, Supabase, etc.)
