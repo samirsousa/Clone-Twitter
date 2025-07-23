@@ -89,10 +89,5 @@ O deploy foi feito com a lib gh-pages, utilizando a branch gh-pages com build fe
 ## 🤝 Contribuindo
 Sinta-se à vontade para fazer fork, abrir issues e enviar pull requests. Toda contribuição é bem-vinda!
 
-## 🧑‍💻 Autor
-Desenvolvido com base no tutorial de DevClub | Programação
-
-Readme adaptado por @samirsousa
-
 ## 📄 Licença
 Este projeto está licenciado sob a licença MIT.
