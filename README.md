@@ -69,7 +69,8 @@ Passo a passo:
 
 ## 🖼️ Preview
 
-📷 Em breve: imagem de preview do projeto
+<img width="1177" height="624" alt="Captura de tela 2025-07-23 182413" src="https://github.com/user-attachments/assets/cf669ca3-d6d3-45eb-829a-9159f87c8c74" />
+
 
 ## ✨ Deploy com GitHub Pages
 O deploy foi feito com a lib gh-pages, utilizando a branch gh-pages com build feita via Vite.
