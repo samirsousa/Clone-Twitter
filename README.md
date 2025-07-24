@@ -7,7 +7,7 @@ Este é um projeto desenvolvido com **React** e **Tailwind CSS** que replica a i
 - ⚛️ React (com Vite)
 - 🎨 Tailwind CSS
 - 🧱 JSX
-- 💾 Heroicons
+- 💾 FontAwesome
 - 🌐 HTML5 + CSS3
 
 ## 📁 Estrutura do Projeto
