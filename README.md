@@ -42,31 +42,6 @@ twitter/
 
 - Estilo moderno com Tailwind
 
-## ⚙️ Instalação e Execução
-Pré-requisitos:
-
-- Node.js instalado
-- Git instalado
-
-Passo a passo:
-1. Clone o repositório:
-
-  git clone https://github.com/samirsousa/Clone-Twitter.git
-
-  cd Clone-Twitter/twitter
-
-2. Instale as dependências:
-
-  npm install
-
-4. Rode o projeto localmente:
-
-  npm run dev
-
-6. Acesse o projeto no navegador:
-
-   https://samirsousa.github.io/Clone-Twitter/
-
 ## 🖼️ Preview
 
 <img width="1177" height="624" alt="Captura de tela 2025-07-23 182413" src="https://github.com/user-attachments/assets/cf669ca3-d6d3-45eb-829a-9159f87c8c74" />
